@@ -11,4 +11,5 @@ if key:
     print(f"Key 前四碼為: {key[:4]}...")
 else:
     print("讀取失敗：找不到 OBSIDIAN_API_KEY，請檢查 .env 檔案內容或位置。")
+    print("Git 版本管理測試")
 print("-" * 30)
